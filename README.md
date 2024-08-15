@@ -10,10 +10,8 @@
 - 💬 Ask me about **React, Node, Flutter, MySQL, MongoDB, Next**
 
 - 📫 How to reach me **salihkaaankoc@gmail.com**
+  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,6 +57,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihkaankoc&show_icons=true&locale=en&layout=compact" alt="salihkaankoc" /></p>
