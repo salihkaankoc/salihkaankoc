@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/salihkaankoc" target="blank"><img src="https://img.shields.io/twitter/follow/salihkaankoc?logo=twitter&style=for-the-badge" alt="salihkaankoc" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, PostgreSQL**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **React, Node, Flutter, MySQL, MongoDB, Next**
 
