@@ -1,47 +1,70 @@
-# Hello 👋, I'm Salih Kaan Koç
-### Co-Founder & Full Stack Developer
+# 👋 Hello, I'm Salih Kaan Koç
 
-A passionate Full-Stack Developer and Founder from Turkey
+### 🚀 Co-Founder & Full Stack Developer
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/salih-kaan-ko%C3%A7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://deploya.co" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/salihkaankoc" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+A passionate Full-Stack Developer and Founder from Turkey 🇹🇷
 
-## Skills
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
+  <a href="https://www.linkedin.com/in/salih-kaan-ko%C3%A7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://deploya.co" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/salihkaankoc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-## GitHub Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=salihkaankoc&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+## 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkaankoc&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,docker,mysql,postgres,mongodb,redis,firebase,jira" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salihkaankoc&theme=default" alt="GitHub Streak" />
+---
 
-<img src="https://profile-counter.glitch.me/salihkaankoc/count.svg?" alt="visitors count" />
+## 📊 GitHub Stats
 
-## GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salihkaankoc&show_icons=true&count_private=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkaankoc&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=salihkaankoc" alt="trophy" />
+---
 
-## GitHub Activity Graph
+## 🔥 GitHub Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salihkaankoc&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salihkaankoc&theme=tokyonight"/>
+</p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salihkaankoc&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salihkaankoc&theme=tokyo-night&area=true"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salihkaankoc&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
