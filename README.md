@@ -30,14 +30,6 @@ A passionate Full-Stack Developer and Founder from Turkey 🇹🇷
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salihkaankoc&show_icons=true&count_private=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihkaankoc&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
